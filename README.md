@@ -37,6 +37,9 @@ The dataset spans from January 1, 2024, to June 30, 2024.
 - Generated two additional tables in Power Query for filtering purposes:  
   - City_Average_rating: Contains average city wise rating.  
   - Set BM: Includes two columns—Benchmarks (vs Previous month/vs Target) and IDs.
+ 
+![](./images/PowerQuery.png)
+![](./images/Queries&Connections.png)
 
 ### Power Pivot, DAX & Data Modelling  
 
@@ -44,12 +47,21 @@ The dataset spans from January 1, 2024, to June 30, 2024.
  - Around 50+ medium to Advanced level DAX has been created to meet the desired results like examples: Previous Month Sales, New vs Repeated Passengers Ratio etc.
  - Data Modelling/Relationship achieve forming Star Schema.
 
+![](./images/PowerPivot1.png)
+![](./images/PowerPivot2.png)
+![](./images/Data_Modelling_Diag_View.png)
+
 ### Excel Dashboard
  - Total 6 sheets workbook of which:
     - 1 sheet for entire 35+ pivots created for building charts for dashboard.
     - 5 Page dashboards created naming: Sales, Finance, Operation, Marketing & Executives
-
-
+  
+![](./images/Finance_Dashboard.png)
+![](./images/Sales_Dashboard.png)
+![](./images/Marketing_Dashboard.png)
+![](./images/Operations_Dashboard.png)
+![](./images/Executive_Dashboard.png)
+![](./images/All_Pivots_Sheet.png)
 
 ## 💡 Insights
 
@@ -124,11 +136,7 @@ The dataset spans from January 1, 2024, to June 30, 2024.
 
 - Collect additional data, including customer profiling, driver and vehicle performance metrics, wait time and pickup time, competitor pricing and offers, and event and tourism data, to support more accurate and enhanced analysis.
 
-## 📎 Links
 
-🌐 [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7281702825435316224/)  
-📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzlmNDdiYTEtYjZlNi00Y2MyLTlmN2QtMmYzYzlhMDBlMDcxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
-🖥️ [Presentation](https://youtu.be/ezo-pXsvnU8)
 
 ## 🧠 Skills Gained
 
